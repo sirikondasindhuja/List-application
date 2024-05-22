@@ -1,0 +1,3 @@
+argparse: For parsing command-line arguments.
+sqlite3: For interacting with the SQLite database.
+Both of these packages are part of the Python Standard Library, so they are included with any standard Python installation. You do not need to install any additional packages.
